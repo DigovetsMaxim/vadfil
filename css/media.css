@@ -1,0 +1,332 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1230px) {
+
+
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1200px) {
+
+.main{
+	text-align: center;
+}
+.main .top_text1{
+	margin: 0;
+	padding: 0;
+	padding-bottom: 10px;
+}
+.main .top_text2{
+	margin: 0;
+	padding: 0;
+	padding-bottom: 100px;
+}
+.main img{
+	width: 100%;
+	padding-bottom: 50px;
+}
+.proposition .btn1{
+	height: 100%;
+}
+.proposition .btn1 img{
+	width: 100%;
+}
+.proposition .btn2{
+	height: 100%;
+}
+.proposition .btn2 img{
+	width: 100%;
+	padding-top: 32px;
+	
+}
+.proposition .top_text2{
+
+}
+.proposition .btn3{
+	height: 100%;
+}
+.proposition .btn3 img{
+	width: 100%;
+}
+.proposition .btn3 .text3{
+	padding-bottom: 56px;
+}
+
+
+
+
+.how .pt{
+	padding-bottom: 30px;
+}
+.how .pt1{
+	padding-bottom: 30px;
+}
+.portfolio{
+	text-align: center;
+}
+
+
+
+
+.thanks{
+	text-align: center;
+	background: #fff;
+}
+.thanks .top_text{
+	padding: 0;
+	padding-top: 200px;
+	padding-bottom: 20px;
+
+}
+.thanks .top_text1{
+	padding: 0;
+	padding-bottom: 50px;
+}
+
+.thanks .btn{
+	padding: 0;
+	padding-bottom: 200px;
+}
+
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 750px) {
+/* Small Devices, Tablets */
+
+/*
+.main{
+	text-align: center;
+}
+.main .top_text1{
+	margin: 0;
+	padding: 0;
+	padding-bottom: 10px;
+}
+.main .top_text2{
+	margin: 0;
+	padding: 0;
+	padding-bottom: 100px;
+}
+.main img{
+	width: 100%;
+	padding-bottom: 50px;
+}
+.proposition{
+	text-align: center;
+}
+
+
+.type .top_text1{
+	padding-left: 30px;
+}
+.type .text1{
+	padding-left: 30px;
+	padding-right: 90px;
+}
+.type .up img{
+	padding-right: 150px;
+}
+.type .top_text2{
+	padding-top: 400px;
+	padding-left: 30px;
+}
+.type .text2{
+	padding-left: 30px;
+	padding-right: 90px;
+}
+.type .down img{
+	padding-right: 150px;
+}
+
+.how{
+	padding-left: 100px;
+	padding-right: 150px;
+}
+.portfolio{
+	text-align: center;
+}
+.portfolio .item{
+	padding: 0;
+	margin: 0;
+}
+.portfolio .item a img{
+	width: 100%;
+}
+*/
+
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 600px) {
+/* Extra Small Devices, Phones */
+
+.main{
+	text-align: center;
+}
+.main .top_text1{
+	padding: 0;
+	margin: 0;
+	padding-bottom: 30px;
+}
+.main .top_text2{
+	padding: 0;
+	margin: 0;
+	padding-bottom: 130px;
+}
+.main img{
+	width: 100%;
+	padding-bottom: 0;
+}
+
+.about{
+	background: width: 100%; 
+	}
+.about .text3{
+	padding-bottom: 150px;
+}
+.about .top_text{
+	padding-top: 200px;
+}
+.proposition{
+	background: #fff;
+}
+.proposition .top_text{
+	padding-bottom: 80px;
+}
+.proposition .btn1{
+	height: 100%;
+	padding-bottom: 25px;
+}
+.proposition .btn2{
+	height: 100%;
+	padding-bottom: 25px;
+}
+.proposition .btn3{
+	height: 100%;
+	padding-bottom: 25px;
+}
+.proposition .btn3 .text3{
+	padding-bottom: 0;
+}
+.proposition img{
+	width: 100%;	
+}
+.how .down{
+	padding-bottom: 200px;
+}
+.type .top_text{
+	padding-top: 130px;
+}
+.type img{
+	width: 100%;
+}
+.portfolio{
+	text-align: center;
+}
+.portfolio .item a img{
+
+}
+.get .top_text{
+	padding-top: 110px;
+}
+.get form{
+	padding-top: 120px;
+}
+.get .form{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+.get .text2{
+	padding: 0;
+}
+.get .form input{
+	width: 90%;
+	padding-left: 10px;
+}
+.get .form button{
+	width: 80%;
+	line-height: 32px;
+	background-color: #333;
+	color: #fff;
+}
+.get .text3{
+	padding: 30px 10px 10px 0;
+}
+footer .left .top_text1{
+	padding-top: 15px;
+	font-size: 9px;
+}
+footer .left .top_text2{
+	font-size: 10px;
+	padding-bottom: 15px;
+}
+footer .picture ul{
+	margin: 0;
+	padding: 0;
+}
+footer .picture ul li{
+	padding: 27px 0px 0px 10px;
+}
+
+
+.thanks{
+	text-align: center;
+	background: #fff;
+}
+.thanks .top_text{
+	padding: 0;
+	padding-top: 150px;
+	padding-bottom: 20px;
+	font-size: 40px;
+
+}
+.thanks .top_text1{
+	padding: 0;
+	padding-bottom: 50px;
+	font-size: 25px;
+}
+
+.thanks .btn{
+	padding: 0;
+	padding-bottom: 200px;
+	font-size: 20px;
+}
+.thanks .btn a{
+	padding: 10px 5px;
+}
+
+
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 325px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 350px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 640px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
