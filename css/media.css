@@ -39,9 +39,6 @@
 	padding-top: 32px;
 	
 }
-.proposition .top_text2{
-
-}
 .proposition .btn3{
 	height: 100%;
 }
@@ -51,10 +48,6 @@
 .proposition .btn3 .text3{
 	padding-bottom: 56px;
 }
-
-
-
-
 .how .pt{
 	padding-bottom: 30px;
 }
@@ -64,10 +57,6 @@
 .portfolio{
 	text-align: center;
 }
-
-
-
-
 .thanks{
 	text-align: center;
 	background: #fff;
@@ -76,89 +65,23 @@
 	padding: 0;
 	padding-top: 200px;
 	padding-bottom: 20px;
-
 }
 .thanks .top_text1{
 	padding: 0;
 	padding-bottom: 50px;
 }
-
 .thanks .btn{
 	padding: 0;
 	padding-bottom: 200px;
 }
-
 }
 /* Small Devices, Tablets */
 @media only screen and (max-width : 750px) {
 /* Small Devices, Tablets */
-
-/*
-.main{
-	text-align: center;
-}
-.main .top_text1{
-	margin: 0;
-	padding: 0;
-	padding-bottom: 10px;
-}
-.main .top_text2{
-	margin: 0;
-	padding: 0;
-	padding-bottom: 100px;
-}
-.main img{
-	width: 100%;
-	padding-bottom: 50px;
-}
-.proposition{
-	text-align: center;
-}
-
-
-.type .top_text1{
-	padding-left: 30px;
-}
-.type .text1{
-	padding-left: 30px;
-	padding-right: 90px;
-}
-.type .up img{
-	padding-right: 150px;
-}
-.type .top_text2{
-	padding-top: 400px;
-	padding-left: 30px;
-}
-.type .text2{
-	padding-left: 30px;
-	padding-right: 90px;
-}
-.type .down img{
-	padding-right: 150px;
-}
-
-.how{
-	padding-left: 100px;
-	padding-right: 150px;
-}
-.portfolio{
-	text-align: center;
-}
-.portfolio .item{
-	padding: 0;
-	margin: 0;
-}
-.portfolio .item a img{
-	width: 100%;
-}
-*/
-
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 600px) {
 /* Extra Small Devices, Phones */
-
 .main{
 	text-align: center;
 }
@@ -176,7 +99,6 @@
 	width: 100%;
 	padding-bottom: 0;
 }
-
 .about{
 	background: width: 100%; 
 	}
@@ -222,9 +144,6 @@
 .portfolio{
 	text-align: center;
 }
-.portfolio .item a img{
-
-}
 .get .top_text{
 	padding-top: 110px;
 }
@@ -268,8 +187,6 @@ footer .picture ul{
 footer .picture ul li{
 	padding: 27px 0px 0px 10px;
 }
-
-
 .thanks{
 	text-align: center;
 	background: #fff;
@@ -295,38 +212,4 @@ footer .picture ul li{
 .thanks .btn a{
 	padding: 10px 5px;
 }
-
-
-}
-/* Custom, iPhone Retina */
-@media only screen and (max-width : 325px) {
-
-}
-
-
-/*==========  Mobile First Method  ==========*/
-
-/* Custom, iPhone Retina */
-@media only screen and (min-width : 350px) {
-
-}
-
-/* Extra Small Devices, Phones */
-@media only screen and (min-width : 480px) {
-
-}
-
-/* Small Devices, Tablets */
-@media only screen and (min-width : 640px) {
-
-}
-
-/* Medium Devices, Desktops */
-@media only screen and (min-width : 992px) {
-
-}
-
-/* Large Devices, Wide Screens */
-@media only screen and (min-width : 1200px) {
-
 }
